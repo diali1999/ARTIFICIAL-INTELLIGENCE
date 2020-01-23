@@ -1,4 +1,4 @@
-#Sub: Solving 8-queens problem using uniform cost search.
+##Sub: Solving 8-queens problem using uniform cost search.
 
 States: Any arrangement of 0-8 queens on the board (1 queen per column) such that no queen attacks another.  
                                           
