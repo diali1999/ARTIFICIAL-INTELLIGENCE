@@ -1,4 +1,10 @@
-#Sub: Solving 8-queens problem using a star.
+---
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
+---
+# Sub: Solving 8-queens problem using a star.
 
 States: Any arrangement of 0-8 queens on the board (1 queen per column) such that no queen attacks another.  
                                           
