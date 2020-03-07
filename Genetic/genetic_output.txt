@@ -1,0 +1,58 @@
+output:
+
+1. 
+
+Enter no. of students: 
+10
+ group 1: 25
+ group 2: 87
+ group 3: 49
+ fitness: 51
+*********************GROUP-1**************************
+student 1 : 25
+*********************GROUP-2**************************
+student 3 : 68
+student 4 : 85
+student 5 : 92
+student 7 : 87
+student 9 : 88
+*********************GROUP-3**************************
+student 0 : 44
+student 2 : 49
+student 8 : 50
+
+
+
+
+
+2.
+
+Enter no. of students: 
+20
+ group 1: 82
+ group 2: 4
+ group 3: 40
+ fitness: 143
+*********************GROUP-1**************************
+student 4 : 82
+student 5 : 78
+student 11 : 76
+student 12 : 93
+student 15 : 74
+student 16 : 99
+student 17 : 88
+*********************GROUP-2**************************
+student 6 : 4
+student 13 : 9
+*********************GROUP-3**************************
+student 0 : 27
+student 1 : 30
+student 2 : 53
+student 3 : 40
+student 7 : 33
+student 8 : 37
+student 9 : 38
+student 10 : 47
+student 14 : 41
+student 18 : 27
+student 19 : 23
